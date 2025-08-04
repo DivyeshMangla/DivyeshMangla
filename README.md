@@ -115,6 +115,13 @@ and tackle complex technical challenges with persistence and focus.
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://leetcode.com/Divyesh_Mangla/">
+        <img src="https://leetcard.jacoblin.cool/Divyesh_Mangla?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
